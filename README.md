@@ -7,7 +7,7 @@ ListFiles will help create an xml file for you to add into your [hydrogen beats]
 
 Run ListFile with the following command:
 
-java ListFiles > output.xml
+    java ListFiles > output.xml
 
 This will create a file ready to be copied into the drumkit.xml for your set of sounds
 Add your output to the drumkit.xml and load up hydrongen and your sounds should be there
